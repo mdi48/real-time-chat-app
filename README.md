@@ -1,4 +1,4 @@
-#
+# A real-time chat application written using Django and AJAX
 
 A Django application that utilizes AJAX scripting to create a real-time chat application. Rooms are created for every subject entered in the room field and messages
 are associated with each room via database retrieval. AJAX is used to ensure that each room does not need to reload every time a message is posted there. Just a small,
